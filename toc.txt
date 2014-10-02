@@ -1,1 +1,5 @@
-Contenu du répertoire
+Contenu du répertoire :
+HelloWorld.java : programme java qui écrit Hello World sur la console
+README.md : fichier initial généré sur GitHub
+README.txt : présente le projet
+toc.txt : fichier table of content
